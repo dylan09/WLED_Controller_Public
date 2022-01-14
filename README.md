@@ -63,4 +63,4 @@ This board is designed to connect addressable LEDs/Neopixel strips and handle th
 
 ## Dontations / Spenden
 If somebody wants to support me for upcoming projects :)  
-PayPal: stefan.riese@me.com
+- PayPal: stefan.riese@me.com
