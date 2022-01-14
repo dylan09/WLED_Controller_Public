@@ -62,5 +62,5 @@ This board is designed to connect addressable LEDs/Neopixel strips and handle th
 - https://github.com/Hasenpups/WLED_ESP32_Controller/blob/main/Case/WLED_ESP32_Controller_Case.stl
 
 ## Dontations / Spenden
-If somebody wants to support me for upcoming projects :)
+If somebody wants to support me for upcoming projects :)  
 PayPal: stefan.riese@me.com
