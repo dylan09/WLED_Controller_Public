@@ -1,5 +1,5 @@
 Comment,Designator,Footprint,LCSC
-"10µ","C1,C3","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","C15850"
+"10µ","C1,C3","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","C40894"
 "47µ","C2","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","C16780"
 "100n","C4,C5","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","C49678"
 "MountingHole","H1,H2","MountingHole:MountingHole_3.2mm_M3_DIN965",""
@@ -11,6 +11,6 @@ Comment,Designator,Footprint,LCSC
 "10K","R5,R6","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","C17414"
 "Reset","SW1","Button_Switch_SMD:SW_SPST_CK_RS282G05A3","C354943"
 "Flash","SW2","Button_Switch_SMD:SW_SPST_CK_RS282G05A3","C354943"
-"AMS1117-3.3","U1","Package_TO_SOT_SMD:SOT-223-3_TabPin2","C6186"
+"AMS1117-3.3","U1","Package_TO_SOT_SMD:SOT-223-3_TabPin2","C347222"
 "ESP32-WROOM-32","U2","RF_Module:ESP32-WROOM-32","C82899"
 "SN74AHCT125D","U3","WLED_ESP32:SOIC127P600X175-14N","C155176"
