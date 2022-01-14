@@ -48,7 +48,7 @@ This board is designed to connect addressable LEDs/Neopixel strips and handle th
 - Sound Reactive WLED: https://github.com/atuline/WLED/releases
 
 ## How to flash software
-1. Connect USB-UART bridge to 3.3V, TX, RX and GND (I prefer adapter with CP2104)
+1. Connect USB-UART bridge to 3.3V, TX, RX and GND (I prefer adapter with CP210x - https://www.makershop.de/module/kommunikation-module/micro-usb-uart-ttl/)
 3. Press and hold "Flash" button
 4. Press "Reset" button and release
 5. Release "Flash" button
